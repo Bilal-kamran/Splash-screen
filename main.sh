@@ -2,6 +2,6 @@
 
 cd $HOME
 clear
-bash $HOME/scripts/shell-splash.sh
-bash $HOME/scripts/line-decoration.sh
+bash $HOME/Splash-screen/shell-splash.sh
+bash $HOME/Splash-screen/line-decoration.sh
 ls -Ah --color=always
